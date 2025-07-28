@@ -1,0 +1,15 @@
+# Core PDF processing
+PyMuPDF==1.23.8
+
+# Optional: System monitoring (not required but helpful for debugging)
+psutil==5.9.6
+
+# Text processing and NLP for semantic analysis
+nltk==3.8.1
+
+# Regular expressions for pattern matching (built-in, but explicit for clarity)
+# re (built-in)
+
+# JSON handling (built-in)
+# json (built-in)
+
